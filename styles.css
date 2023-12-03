@@ -40,7 +40,7 @@ input {
     font-family: Raleway;
     border: 1px solid #aaaaaa;
     border-radius: 10px;
-    -webkit-appearance: none;
+    /*-webkit-appearance: none;*/
 }
 
 
